@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>World of HiyJeain</title><link href="/" rel="alternate"></link><link href="/feeds/hiyjeain.atom.xml" rel="self"></link><id>/</id><updated>2014-09-17T00:00:00+02:00</updated><entry><title>Hello Pelican</title><link href="/hello-pelican.html" rel="alternate"></link><updated>2014-09-17T00:00:00+02:00</updated><author><name>HiyJeain</name></author><id>tag:,2014-09-17:hello-pelican.html</id><summary type="html">&lt;hr /&gt;
+&lt;h1&gt;First Article&lt;/h1&gt;
+&lt;p&gt;This is the first article of this blog&lt;/p&gt;</summary></entry></feed>
